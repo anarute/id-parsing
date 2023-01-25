@@ -1,0 +1,11 @@
+{
+  "name": "id-parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.0"
+  }
+}
